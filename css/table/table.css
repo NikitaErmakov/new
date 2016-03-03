@@ -1,0 +1,16 @@
+.myTable{
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+}
+.myTable tr, .myTable th{
+    padding: 5px;
+    background-color: #eee;
+}
+.myTable tr:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+.myTable tr td{
+    padding: 5px 15px;
+}
