@@ -1,4 +1,4 @@
-.card{
+.b-card{
     position:relative;
     width:600px;
     margin: 0 auto;
@@ -7,13 +7,13 @@
     overflow: hidden;
 }
 
-.card_CS{
+.b-card__CS{
     position: relative;
     left: 0;
     top: 0;
 }
 
-.card_title{
+.b-card__title{
     font-size: 40px;
     color: orange;
 }

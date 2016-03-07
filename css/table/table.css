@@ -1,16 +1,16 @@
-.myTable{
+.b-table{
     position: relative;
     margin: 10px auto;
     text-align: center;
 }
-.myTable tr, .myTable th{
+.b-table__tr{
     padding: 5px;
     background-color: #eee;
 }
-.myTable tr:hover{
+.b-table__tr--hover:hover{
     background-color: yellow;
     cursor: pointer;
 }
-.myTable tr td{
+.b-table__td{
     padding: 5px 15px;
 }
