@@ -10,6 +10,8 @@
 .b-table__tr--hover:hover{
     background-color: yellow;
     cursor: pointer;
+    transform: scale(1.1);
+    transition: all 0.4s linear;
 }
 .b-table__td{
     padding: 5px 15px;
